@@ -1,0 +1,1 @@
+To run this model the user have to have deeds install in the computer. Just open the pbs file from the deeds.  
